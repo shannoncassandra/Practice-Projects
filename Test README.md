@@ -1,4 +1,4 @@
-Project Title: Start with a clear and concise title that describes the purpose or focus of your project.
+## Project Title: Start with a clear and concise title that describes the purpose or focus of your project.
 
 Description: Provide a brief description of what your project does. Explain its purpose, features, and any other relevant details.
 
